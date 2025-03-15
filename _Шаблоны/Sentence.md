@@ -1,0 +1,7 @@
+### sentence
+
+### definition
+
+---
+
+[[Sentence]]

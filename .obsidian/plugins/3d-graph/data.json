@@ -1,0 +1,40 @@
+{
+  "filters": {
+    "doShowOrphans": true,
+    "doShowAttachments": false
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "Vim",
+        "color": "#169905"
+      },
+      {
+        "query": "Prime",
+        "color": "#e00b0b"
+      },
+      {
+        "query": "Телеграм-боты на Python и AIOgram",
+        "color": "#b1e052"
+      },
+      {
+        "query": "Docker/docker.docs",
+        "color": "#54b1e0"
+      },
+      {
+        "query": "Docker/Руководство по Docker",
+        "color": "#54e0b1"
+      },
+      {
+        "query": "Docker",
+        "color": "#2665e3"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 4,
+    "linkThickness": 5,
+    "particleSize": 7,
+    "particleCount": 5
+  }
+}

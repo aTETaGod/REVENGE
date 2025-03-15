@@ -1,0 +1,171 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorSelect": false,
+  "rememberDeletedItems": false,
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Docker": {
+      "icon": "🐋",
+      "color": "blue",
+      "unsynced": [
+        "11a8c9e50d341d26",
+        "/storage/emulated/0/obsidian/purgatory"
+      ]
+    },
+    "Docker/Docker.md": {
+      "icon": "🐋",
+      "color": "blue"
+    },
+    "Docker/docker.docs/Get started/Docker concepts/Docker concepts.md": {
+      "icon": "🐋",
+      "color": "blue"
+    },
+    "Docker/docker.docs/Get started/Docker workshop/Docker workshop.md": {
+      "icon": "🐋",
+      "color": "blue"
+    },
+    "Docker/docker.docs/Get started/Get started.md": {
+      "icon": "🐋",
+      "color": "blue"
+    },
+    "Docker/docker.docs/Get started/Introduction/Introduction.md": {
+      "icon": "🐋",
+      "color": "blue"
+    },
+    "Docker/docker.docs/Guides/Guides.md": {
+      "icon": "🐋",
+      "color": "blue"
+    },
+    "Docker/docker.docs/docker.docs.md": {
+      "icon": "🐋",
+      "color": "blue"
+    },
+    "Docker/Руководство по Docker/Полное практическое руководство по Docker.md": {
+      "icon": "🐳",
+      "color": "blue"
+    },
+    "Python": {
+      "icon": "🐍",
+      "unsynced": [
+        "11a8c9e50d341d26",
+        "/storage/emulated/0/obsidian/purgatory"
+      ]
+    },
+    "Python/Python.md": {
+      "icon": "🐍"
+    },
+    "Python/Асинхронность/Асинхронность.md": {
+      "icon": "🐍"
+    },
+    "Python/Библиотеки/Aiogram/Aiogram.md": {
+      "icon": "🐍"
+    },
+    "Python/Библиотеки/Aiogram/Телеграм-боты на Python и AIOgram/Телеграм-боты на Python и AIOgram.md": {
+      "icon": "🐍"
+    },
+    "Python/Библиотеки/Библиотеки.md": {
+      "icon": "🐍"
+    },
+    "Python/Декораторы/Декораторы.md": {
+      "icon": "🐍"
+    },
+    "Python/Декораторы/Продвинутое использование декораторов. Шаг 2/Продвинутое использование декораторов. Шаг 2.md": {
+      "icon": "🐍"
+    },
+    "roadmaps": {
+      "icon": "lucide-map",
+      "unsynced": [
+        "11a8c9e50d341d26"
+      ],
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/Common Packages.md": {
+      "icon": "🔟",
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/Concurrency.md": {
+      "icon": "6️⃣",
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/Context Manager.md": {
+      "icon": "4️⃣",
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/Data Structures and Algorithms.md": {
+      "icon": "2️⃣",
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/Decorators.md": {
+      "icon": "5️⃣",
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/Environments.md": {
+      "icon": "💞",
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/Generator Expressions.md": {
+      "icon": "2️⃣",
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/Iterators.md": {
+      "icon": "6️⃣",
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/Lambdas.md": {
+      "icon": "4️⃣",
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/Learn a Framework.md": {
+      "icon": "5️⃣",
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/Learn the Basics.md": {
+      "icon": "1️⃣",
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/List Comprehensions.md": {
+      "icon": "1️⃣",
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/Modules.md": {
+      "icon": "3️⃣",
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/Object Oriented Programming.md": {
+      "icon": "8️⃣",
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/Package Managers.md": {
+      "icon": "9️⃣",
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/Paradigms.md": {
+      "icon": "3️⃣",
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/Python roadmaps.canvas": {
+      "icon": "lucide-map",
+      "color": "purple"
+    },
+    "roadmaps/Python roadmaps/Regular Expressions.md": {
+      "icon": "7️⃣",
+      "color": "purple"
+    },
+    "roadmaps/roadmaps.md": {
+      "icon": "lucide-map",
+      "color": "purple"
+    }
+  },
+  "bookmarkIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {}
+}
