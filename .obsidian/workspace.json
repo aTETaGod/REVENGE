@@ -8,97 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca2d105de4fb571e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "c578b8791c0733cb",
+            "id": "26636c65ad615acc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "therefore.md",
+                "file": "break.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "therefore"
+              "title": "break"
             }
           },
           {
-            "id": "fb4cdbbfcee2606a",
+            "id": "265e18e5239bc67a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Шаблоны/Word.md",
+                "file": "break.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Word"
+              "title": "break"
             }
           },
           {
-            "id": "dbb02f749bf60b04",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "66f2bae30ffd6889",
+            "id": "07002e98bd2ed587",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "do the same.md",
+                "file": "break the ice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "do the same"
+              "title": "break the ice"
             }
           },
           {
-            "id": "e66fe9260965a92e",
+            "id": "aacf2d095d93009d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "do the same.md",
+                "file": "gun.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "do the same"
+              "title": "gun"
             }
           },
           {
-            "id": "54b76cbfaf60e546",
+            "id": "ce3f8e05d41ba366",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "improve.md",
+                "file": "new.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "improve"
+              "title": "new"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -282,16 +262,25 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "54b76cbfaf60e546",
+  "active": "ce3f8e05d41ba366",
   "lastOpenFiles": [
+    "gun.md",
+    "new.md",
+    "break the ice.md",
+    "boyfriend.md",
+    "option.md",
+    "brain.md",
+    "boy.md",
+    "break.md",
+    "therefore.md",
+    "improve.md",
+    "better off (using).md",
+    "get better.md",
+    "do the same.md",
     "REVENGE/main.py",
     "REVENGE/README.md",
     "REVENGE",
-    "do the same.md",
-    "improve.md",
-    "therefore.md",
     "what about you.md",
-    "better off (using).md",
     "that's why.md",
     "because.md",
     "so.md",
@@ -304,15 +293,7 @@
     "roadmaps/Python roadmaps/Lambdas.md",
     "Docker/docker.docs/Get started/Docker workshop/Containerize an application.md",
     "Docker/docker.docs/Get started/Docker concepts/Docker concepts.md",
-    "Таймкоды.md",
-    "Ideas.md",
     "roadmaps/Python roadmaps/Python roadmaps.canvas",
-    "roadmaps/Python roadmaps/Concurrency.md",
-    "roadmaps/Python roadmaps/Environments.md",
-    "roadmaps/Python roadmaps/Learn a Framework.md",
-    "roadmaps/Python roadmaps/Context Manager.md",
-    "roadmaps/Python roadmaps/Paradigms.md",
-    "roadmaps/Python roadmaps/Generator Expressions.md",
     "Шаблоны/Python roadmaps",
     "Шаблоны",
     "roadmaps/Python roadmaps/Learn the Basics",
@@ -321,7 +302,6 @@
     "roadmaps",
     "Python/Библиотеки/Aiogram",
     "Python/Асинхронность",
-    "Python/Декораторы/Продвинутое использование декораторов. Шаг 2",
     "_picture/Pasted image 20240825145952.png",
     "_picture/Pasted image 20240825000147.png",
     "_picture/Pasted image 20240824234413.png",
