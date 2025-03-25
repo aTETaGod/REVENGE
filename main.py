@@ -55,13 +55,13 @@ def with_your_hands():
         file.write("[[Word]]\n")
     with_your_hands()
 
+#switch с помощью словаря
 oper = {
     1: from_a_text_file,
     2: with_your_hands,
 }
 
 def REVENGE():
-    
     i = int(input("Выберите как будем работать:\n\n1. Из текстового файла\n2. Ручками\n\nНу каков ваш ответ? "))
     oper.get(i, 2)()
 
