@@ -50,7 +50,6 @@ arm
 around	
 arrive	
 as	
-ask	
 asleep	
 ass	
 at	
@@ -71,7 +70,6 @@ barely
 bathroom	
 be	
 beat	B78
-beautiful	
 became	
 because	
 become	
@@ -575,7 +573,6 @@ oh
 okay	
 old	
 on	
-once	
 one	
 only	
 onto	
@@ -743,7 +740,6 @@ sir
 sister	
 sit	
 situation	
-six	
 skin	
 sky	
 slam	
@@ -810,7 +806,6 @@ suddenly
 suggest	
 summer	
 sun	
-suppose	
 sure	
 surprise	
 surround	
@@ -865,7 +860,6 @@ together
 told	
 tomorrow	
 tone	
-tongue	
 too	
 took	
 top	
@@ -903,13 +897,11 @@ walk
 want	
 warm	
 warn	
-was	
 wasn't	
 watch	
 water	
 wave	
 way		
-we'll	
 we're	
 we've	
 wear	
@@ -953,7 +945,6 @@ word
 wore	
 work		
 worry	
-worse	
 would	
 wouldn't	
 wow	
