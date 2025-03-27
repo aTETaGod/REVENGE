@@ -743,7 +743,6 @@ situation
 skin	
 sky	
 slam	
-sleep	
 slightly	
 slip	
 slow	
