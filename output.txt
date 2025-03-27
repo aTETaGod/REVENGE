@@ -193,7 +193,6 @@ cute
 dad	
 damn	
 dance	
-dark	
 date	
 daughter	
 day	
@@ -416,7 +415,6 @@ I
 I'd	
 I'll	
 I'm	
-I've	
 ice	
 idea	
 if	
@@ -744,7 +742,6 @@ skin
 sky	
 slam	
 slightly	
-slip	
 slow	
 slowly	
 small	

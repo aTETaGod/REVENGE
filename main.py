@@ -16,13 +16,13 @@ def from_a_text_file():
 
     #Фабрика слов
     for i in clines:
+        print(f"Рандомное слово {i}")
+        b = str(input('Введите транскрипцию: '))
+        print('Введите определение: ')
+        c = sys.stdin.read()
+        print('Введите пример использования: ')
+        d = sys.stdin.read()
         with open(f"{i}.md", "w", encoding="utf-8") as file:
-            print(f"Рандомное слово {i}")
-            b = str(input('Введите транскрипцию: '))
-            print('Введите определение: ')
-            c = sys.stdin.read()
-            print('Введите пример использования: ')
-            d = sys.stdin.read()
             file.write(f"### [{b}]\n")
             file.write("### definition\n")
             file.write(f"{str(c)}\n")
