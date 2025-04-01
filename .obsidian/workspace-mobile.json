@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "angry.md",
+                "file": "Yes, I'd fucking love to.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "angry"
+              "title": "Yes, I'd fucking love to"
             }
           }
         ]
@@ -169,6 +169,7 @@
   },
   "active": "daeef8c7a9fa394c",
   "lastOpenFiles": [
+    "angry.md",
     "near.md",
     "Допустим да.md",
     "nurse.md",
@@ -195,7 +196,6 @@
     "Книга пяти колец.md",
     "Библиотека.md",
     "Python/The Python Tutorial/The Python Tutorial.md",
-    "Python/The Python Tutorial/The Python Tutorial.sync-conflict-20240907-192839-4RA7LB5.md",
-    "Python/Python.md"
+    "Python/The Python Tutorial/The Python Tutorial.sync-conflict-20240907-192839-4RA7LB5.md"
   ]
 }
